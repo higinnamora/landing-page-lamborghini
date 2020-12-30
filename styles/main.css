@@ -162,7 +162,7 @@ p {
   position: absolute;
   top: 7%;
   left: 20%;
-  width: 394%;
+  width: 484px;
   z-index: var(--z-normal);
 }
 .home__information {
